@@ -9,6 +9,14 @@ Course Link :- https://jovian.com/learn/data-analysis-with-python-zero-to-pandas
 
 - Data Analysis with Python: Zero to Pandas" is a practical and beginner-friendly introduction to data analysis covering the basics of Python, Numpy, Pandas, Data Visualization, and Exploratory Data Analysis.
 
+Hands-on Notebooks link
+
+- Assignment-1   :- https://jovian.com/ganeshtharun98/python-practice-assignment
+- Assignment-2   :- https://jovian.com/ganeshtharun98/numpy-array-operations
+- Assignment-3   :- https://jovian.com/ganeshtharun98/pandas-practice-assignment
+- Course Project :- https://jovian.com/ganeshtharun98/shop-customer-analysis
+
+
 Certification of this Course.
 
 - Certification link : https://jovian.com/certificate/MFQTQMZZHE
